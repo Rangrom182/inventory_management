@@ -2,6 +2,6 @@
 "name":"Owen E.",
 "lastname":"Price",
 "type":"doctor",
-"availabletimes":["8 am","8:30 am","1 pm"],
-"availabledates":["Tuesday January 4","Tuesday January 4", "Tuesday January 4"]
+"availabletimes":[ "Ford", "BMW", "Fiat" ],
+"availabledates":[ "Ford", "BMW", "Fiat" ]
 }
