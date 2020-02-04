@@ -1,61 +1,60 @@
 {
-    "values":
-    [
-    {
-        "id": 1,
-        "fullname": "Russell R. Reynolds",
-        "firstname": "Russell R.",
-        "lastname": " Reynolds",
-        "available_times": ["8:00am","2:00pm","2:15pm","3:00pm"],
-        "available_dates": ["2020-02-04", "2020-02-04","2020-02-05","2020-02-04"]
-    },
-    {
-        "id": 2,
-        "fullname": "Jay R. Reynolds",
-        "firstname": "Jay R.",
-        "lastname": "Reynolds",
-        "available_times": ["8:15am","12:15pm","1:00pm","3:00pm"],
-        "available_dates": ["2020-02-04", "2020-02-04","2020-02-05","2020-02-04"]
-    },
-    {
-        "id": 3,
-        "fullname": "Owen E. Price",
-        "firstname": "Owen E.",
-        "lastname": "Price",
-        "available_times": ["8:00am","9:15am","11:30am","9:00am"],
-        "available_dates": ["2020-02-04", "2020-02-04","2020-02-05","2020-02-04"]
-    },
-    {
-        "id": 4,
-        "fullname": "John J. Price",
-        "firstname": "John J.",
-        "lastname": "Price",
-        "available_times": ["8:00am","9:15am","11:30am","9:00am"],
-        "available_dates": ["2020-02-04", "2020-02-04","2020-02-05","2020-02-04"]
-    },
-    {
-        "id": 5,
-        "fullname": "Jared O. Price",
-        "firstname": "Jared O.",
-        "lastname": "Price",
-        "available_times": ["8:00am","9:15am","11:30am","9:00am"],
-        "available_dates": ["2020-02-04", "2020-02-04","2020-02-05","2020-02-04"]
-    },
-    {
-        "id": 6,
-        "fullname": "Brandon P. Reynolds",
-        "firstname": "Brandon P.",
-        "lastname": "Reynolds",
-        "available_times": ["8:00am","9:15am","11:30am","9:00am"],
-        "available_dates": ["2020-01-30", "2020-01-31","2020-01-31","2020-01-31"]
-    },
-    {
-        "id": 7,
-        "fullname": "D. Vernon Cahoon",
-        "firstname": "D. Vernon",
-        "lastname": "Cahoon",
-        "available_times": ["8:00am","9:15am","11:30am","9:00am"],
-        "available_dates": ["2020-01-30", "2020-01-31","2020-01-31","2020-01-31"]
-    }
-]
+	"doctor_full_name": {
+		"Russell R. Reynolds": [{
+			"id": 1,
+			"fullname": "Russell R. Reynolds",
+			"firstname": "Russell R.",
+			"lastname": " Reynolds",
+			"available_times": ["8:00am", "2:00pm", "2:15pm", "3:00pm"],
+			"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+		}],
+		"Jay R. Reynolds": [{
+			"id": 2,
+			"fullname": "Jay R. Reynolds",
+			"firstname": "Jay R.",
+			"lastname": "Reynolds",
+			"available_times": ["8:15am", "12:15pm", "1:00pm", "3:00pm"],
+			"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+		}],
+		"Owen E. Price": [{
+			"id": 3,
+			"fullname": "Owen E. Price",
+			"firstname": "Owen E.",
+			"lastname": "Price",
+			"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
+			"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+		}],
+		"John J. Price": [{
+			"id": 4,
+			"fullname": "John J. Price",
+			"firstname": "John J.",
+			"lastname": "Price",
+			"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
+			"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+		}],
+		"Jared O. Price": [{
+			"id": 5,
+			"fullname": "Jared O. Price",
+			"firstname": "Jared O.",
+			"lastname": "Price",
+			"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
+			"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+		}],
+		"Brandon P. Reynolds": [{
+			"id": 6,
+			"fullname": "Brandon P. Reynolds",
+			"firstname": "Brandon P.",
+			"lastname": "Reynolds",
+			"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
+			"available_dates": ["2020-01-30", "2020-01-31", "2020-01-31", "2020-01-31"]
+		}],
+		"D. Vernon Cahoon": [{
+			"id": 7,
+			"fullname": "D. Vernon Cahoon",
+			"firstname": "D. Vernon",
+			"lastname": "Cahoon",
+			"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
+			"available_dates": ["2020-01-30", "2020-01-31", "2020-01-31", "2020-01-31"]
+		}]
+	}
 }
