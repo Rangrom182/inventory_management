@@ -1,5 +1,7 @@
 {
-"name":"John",
-"age":30,
-"cars":[ "Ford", "BMW", "Fiat" ]
+"name":"Owen E.",
+"lastname":"Price",
+"type":"doctor",
+"available_times":[ "8 am", "8:30 am", "1 pm" ],
+"available_dates":[ "Tuesday January 4", "Tuesday January 4", "Tuesday January 4"]
 }
