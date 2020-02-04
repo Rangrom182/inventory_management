@@ -1,5 +1,5 @@
 {
-	"name": "Owen E. Price",
-	"available_times": ["8:00am", "9:15am", "11:30am", "9:00am"],
-	"available_dates": ["2020-02-04", "2020-02-04", "2020-02-05", "2020-02-04"]
+"name":"John",
+"age":30,
+"cars":[ "Ford", "BMW", "Fiat" ]
 }
