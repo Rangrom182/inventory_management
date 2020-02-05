@@ -2,6 +2,6 @@
 "name":"Owen E.",
 "lastname":"Price",
 "type":"doctor",
-"availabletimes":[ "8:00 a.m.", "8:30 a.m.", "1:00 p.m." ],
-"availabledates":[ "02/04", "02/04", "02/04" ]
+"availabletimes":[ "8:00 a.m.", "8:30 a.m."],
+"availabledates":[ "02/04", "02/04"]
 }
