@@ -1,0 +1,7 @@
+{
+"name":"Owen E.",
+"lastname":"Price",
+"type":"doctor",
+"availabletimes":[ "1:00 p.m.", "1:30 p.m.", "3:00 p.m." ],
+"availabledates":[ "02/04", "02/04", "02/04" ]
+}
