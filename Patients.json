@@ -1,1 +1,19 @@
-[{"id":1,"firstname":"Austin","lastname":"Hill"},{"id":2,"firstname":"John","lastname":"Ludwig"},{"id":3,"firstname":"Karen","lastname":"Logan"}]
+{
+  "Patients":[
+    {
+        "id": 1,
+        "firstname": "Austin",
+        "lastname": "Hill"
+    },
+    {
+        "id": 2,
+        "firstname": "John",
+        "lastname": "Ludwig"
+    },
+    {
+        "id": 3,
+        "firstname": "Karen",
+        "lastname": "Logan"
+    }
+    ]
+}
