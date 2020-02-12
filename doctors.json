@@ -1,24 +1,43 @@
 {
-	"Doctors": [{
-			"name": "John Roscoe"
-		},
-		{
-			"name": "Bernie Sanders"
-		},
-		{
-			"name": "Even Almighty"
-		},
-		{
-			"name": "Abraham Lincoln"
-		},
-		{
-			"name": "Juniper Jud"
-		},
-		{
-			"name": "Ben Lincoln"
-		},
-		{
-			"name": "Bob Roscoe"
+	type: "Dialog.UpdateDynamicEntities",
+	updateBehavior: "REPLACE",
+	types: [{
+		name: "doctor_name",
+		values: [{
+				"name": {
+					"value": "John Roscoe"
+				}
+			},
+			{
+				"name": {
+					"value": "Bernie Sanders"
+				}
+			},
+			{
+				"name": {
+					"value": "Evan Almighty"
+				}
+			},
+			{
+				"name": {
+					"value": "Abraham Lincoln"
+				}
+			},
+			{
+				"name": {
+					"value": "Juniper Jud"
+				}
+			},
+			{
+				"name": {
+					"value": "Ben Lincoln"
+				},
+				{
+					"name": {
+						"value": "Bob Roscoe"
+					}
+				}
+			]
 		}
-	]
-}
+	}]
+};
