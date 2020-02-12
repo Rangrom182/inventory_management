@@ -1,36 +1,36 @@
 [{
-				"name": {
-					"value": "John Roscoe"
-				}
-			},
-			{
-				"name": {
-					"value": "Bernie Sanders"
-				}
-			},
-			{
-				"name": {
-					"value": "Evan Almighty"
-				}
-			},
-			{
-				"name": {
-					"value": "Abraham Lincoln"
-				}
-			},
-			{
-				"name": {
-					"value": "Juniper Jud"
-				}
-			},
-			{
-				"name": {
-					"value": "Ben Lincoln"
-				}
-			},
-				{
-					"name": {
-						"value": "Bob Roscoe"
-					}
-				}
-			]
+		"name": {
+			"value": "John Roscoe"
+		}
+	},
+	{
+		"name": {
+			"value": "Bernie Sanders"
+		}
+	},
+	{
+		"name": {
+			"value": "Evan Almighty"
+		}
+	},
+	{
+		"name": {
+			"value": "Abraham Lincoln"
+		}
+	},
+	{
+		"name": {
+			"value": "Juniper Jud"
+		}
+	},
+	{
+		"name": {
+			"value": "Ben Lincoln"
+		}
+	},
+	{
+		"name": {
+			"value": "Bob Roscoe"
+		}
+	}
+]
